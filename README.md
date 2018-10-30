@@ -1,2 +1,2 @@
 # matplotlib
-mtplotlib视频课程源代码
+matplotlib视频课程源代码
